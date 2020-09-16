@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\sdk_content (MY MAPS)
+
+C:\Program Files (x86)\Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\materials (MY CUSTOM MATERIAL)
